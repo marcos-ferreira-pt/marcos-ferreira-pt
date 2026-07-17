@@ -6,7 +6,7 @@ Desenvolvedor interessado em criar software util, fiavel e bem estruturado.
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/wakatime?username=[MEU_USER]&theme=transparent&hide_border=true&layout=compact&langs_count=8&display_format=time&custom_title=Tempo%20por%20linguagem&disable_animations=true"
+    src="https://github-readme-stats.vercel.app/api/wakatime?username=c33833bf-d7a1-40b6-b830-ced76aa8016f&theme=transparent&hide_border=true&layout=compact&langs_count=8&display_format=time&custom_title=Tempo%20por%20linguagem&disable_animations=true"
     alt="Tempo de programacao por linguagem"
   />
 </p>
@@ -21,8 +21,6 @@ Desenvolvedor interessado em criar software util, fiavel e bem estruturado.
 
 <details>
   <summary>Configuracao do WakaTime</summary>
-
-Substitui `[MEU_USER]` pelo teu username do WakaTime.
 
 No WakaTime, abre **Settings -> Privacy** e ativa:
 
