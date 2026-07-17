@@ -19,6 +19,7 @@ Other        2 mins                ▒░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 > Estatisticas atualizadas automaticamente pelo WakaTime. Sao mostradas apenas linguagens e tempo de programacao, sem projetos ou ficheiros.
+> https://wakatime.com/@c33833bf-d7a1-40b6-b830-ced76aa8016f
 
 ## Contacto
 
