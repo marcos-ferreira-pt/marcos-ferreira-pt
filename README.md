@@ -1,6 +1,6 @@
 # Marcos Ferreira
 
-Desenvolvedor interessado em criar software util, fiavel e bem estruturado.
+https://www.marcos-ferreira.pt
 
 ## Tempo de programacao
 
@@ -16,18 +16,7 @@ No activity tracked
 
 ## Contacto
 
-- GitHub: [@marcos-ferreira-pt](https://github.com/marcos-ferreira-pt)
+- https://www.marcos-ferreira.pt
+- https://www.linkedin.com/in/marcosandretavaresferreira
 
 ---
-
-<details>
-  <summary>Configuracao do WakaTime</summary>
-
-No WakaTime, abre **Settings -> Privacy** e ativa:
-
-- `Display code time publicly`
-- `Display languages, editors, os, categories publicly`
-
-Nao coloques a API Key neste README. A atualizacao automatica usa uma GitHub Actions secret chamada `WAKATIME_API_KEY`.
-
-</details>
