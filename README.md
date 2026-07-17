@@ -5,6 +5,11 @@ Desenvolvedor interessado em criar software util, fiavel e bem estruturado.
 ## Tempo de programacao
 
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 > Estatisticas atualizadas automaticamente pelo WakaTime. Sao mostradas apenas linguagens e tempo de programacao, sem projetos ou ficheiros.
